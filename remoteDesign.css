@@ -1,0 +1,29 @@
+.Remote{
+  background-color: black;
+  display:inline-block;
+  height : 80%;
+  border-radius : 16px;
+  margin-left: 40%;
+  margin-top: 8%;
+}
+
+.numButton ,.volButton , .chButton{
+  background-color: grey;
+  border: blue;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+
+}
+
+.powerButton{
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/0/04/Circle-icons-power.svg');
+  width : 50px;
+  height : 50px;
+}
